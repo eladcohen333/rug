@@ -1,6 +1,6 @@
-# RAG Chat Application
+# Hebrew RAG Chat Application
 
-A Retrieval-Augmented Generation (RAG) chat application that uses local vector storage and Google Gemini for responses.
+A Retrieval-Augmented Generation (RAG) chat application that uses local vector storage and Google Gemini for responses, optimized for Hebrew text processing.
 
 ## Project Structure
 
